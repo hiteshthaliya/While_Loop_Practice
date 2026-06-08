@@ -6,4 +6,4 @@ while n > 0:
     digit = n % 10
     product *= digit
     n = n // 10    
-print(f"Product of digits is: {product}")
+print(f"Product of digits {n} is: {product}")
