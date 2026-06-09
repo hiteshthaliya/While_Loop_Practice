@@ -6,4 +6,4 @@ while n>0 :
     n = n // 10 # floor division
     counter += 1
 
-print(counter)        
+print("total number of digit is: ",counter)        
