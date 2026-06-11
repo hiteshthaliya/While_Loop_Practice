@@ -12,4 +12,5 @@ while i<n:
 if sum == n:
     print("perfect number")
 else:
-    print("Not Perfact number")   
+    print("Not Perfact number")  
+    
