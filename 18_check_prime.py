@@ -1,7 +1,7 @@
 #  Check whether the given number is a prime number.
 n = int(input("enter a number: "))
 if n<=1:
-    print("not a prime numbert status")
+    print("not a prime number")
 else:
     is_prime = True
     i=2
