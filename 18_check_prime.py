@@ -6,7 +6,6 @@ else:
     is_prime = True
     i=2
     while i<n:
-        is_prime = True
         if n%i==0:
            is_prime = False
            break
